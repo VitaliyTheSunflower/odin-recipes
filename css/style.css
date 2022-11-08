@@ -1,5 +1,5 @@
 body {
-    background-color: lightseagreen;
+    background-color: rgb(39, 216, 207);
     color: darkblue;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -19,4 +19,44 @@ body {
     font-size: 20px;
     font-weight: 600;
 
+}
+
+.picone {
+    width: 420px;
+    height: 320px;
+    
+}
+
+.listo {
+    font-size: 22px;
+    
+}
+
+.rata {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pictwo {
+    height: 300px;
+    width: 500px;
+}
+
+.picthree {
+    height: 300px;
+    width: 500px;
+}
+
+.header {
+    text-align: center;
+    font-size: 75px;
+    text-decoration: underline;
+    
+}
+
+.odin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 750px;
 }
